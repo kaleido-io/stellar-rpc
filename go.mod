@@ -1,8 +1,8 @@
 module github.com/stellar/stellar-rpc
 
-go 1.24
+go 1.24.0
 
-toolchain go1.24.1
+toolchain go1.24.4
 
 require (
 	github.com/Masterminds/squirrel v1.5.4
@@ -117,7 +117,7 @@ require (
 	golang.org/x/exp v0.0.0-20231006140011-7918f672742d // indirect
 	golang.org/x/mod v0.17.0
 	golang.org/x/net v0.26.0 // indirect
-	golang.org/x/oauth2 v0.21.0 // indirect
+	golang.org/x/oauth2 v0.31.0 // indirect
 	golang.org/x/sync v0.10.0 // indirect
 	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
